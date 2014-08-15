@@ -1,0 +1,36 @@
+body{background:url("images/fullbody.png");width:100%;height:100%;position:absolute;overflow:hidden;}
+#bgAllImage{display:block;position:absolute;width:100%;height:100%;top:0;left:0;background:url("images/2.jpg");}
+.wrap{width:1000px;height:100%;margin:0 auto;}
+#main_container{position:relative; width:280px;height:100%;float:left;}
+.container{position:relative;width:696px;height:100%;float:left;margin-left:20px;float:left;border:1px solid #ccc;}
+#top{display:block; width:280px;height:80px;border:1px solid #ccc;margin-bottom:4px;}
+.avatar-wrap{width:48px;height:48px;margin-top:4px;margin-left:10px;border:4px solid #fff;float:left;}
+.ns{float:left;width:200px;height:52px;margin-top:8px;margin-left:8px;}
+.nicheng{font-size:16px;font-family:黑体;text-align:left;}
+.shuoshuo{font-size:12px;font-family:黑体;display:block;text-align:left;}
+.tb{width:270px;height:20px;background:url("images/icons_list.png")no-repeat;margin-top:60px;margin-left:12px;}
+
+
+
+
+
+
+
+
+#main{position:relative;width:280px;height:500px;border:1px solid #ccc;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
